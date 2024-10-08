@@ -1,0 +1,21 @@
+img {
+    width: 700px;
+    height: 500px;
+}
+
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+    font-style: italic;
+}
+
+hr {
+    border: none; /* Remove a borda padrão */
+    height: 2px; /* Espessura da linha */
+    background-color: #C2B280; /* Cor da linha */
+    margin: 20px 0; /* Margens acima e abaixo */
+}
